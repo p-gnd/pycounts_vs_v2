@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "pypkgs_vs"
+name = "pycounts_vs"
 version = "0.4.0"
 description = "Calculate word counts in a text file!"
 authors = ["Tomas Beuzen"]
@@ -8,6 +8,7 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.9"
+matplotlib = "^3.5.1"
 
 [tool.poetry.dev-dependencies]
 
