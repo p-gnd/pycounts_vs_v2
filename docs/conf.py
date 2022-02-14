@@ -6,7 +6,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = u"pypkgs_vs"
+project = u"pycounts_vs"
 copyright = u"2022, Tomas Beuzen"
 author = u"Tomas Beuzen"
 

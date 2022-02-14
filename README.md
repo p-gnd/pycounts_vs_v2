@@ -1,11 +1,11 @@
-# pypkgs_vs
+# pycounts_vs
 
 Calculate word counts in a text file!
 
 ## Installation
 
 ```bash
-$ pip install pypkgs_vs
+$ pip install pycounts_vs
 ```
 
 ## Usage
@@ -18,8 +18,8 @@ Interested in contributing? Check out the contributing guidelines. Please note t
 
 ## License
 
-`pypkgs_vs` was created by Tomas Beuzen. It is licensed under the terms of the MIT license.
+`pycounts_vs` was created by Tomas Beuzen. It is licensed under the terms of the MIT license.
 
 ## Credits
 
-`pypkgs_vs` was created with [`cookiecutter`](https://cookiecutter.readthedocs.io/en/latest/) and the `py-pkgs-cookiecutter` [template](https://github.com/py-pkgs/py-pkgs-cookiecutter).
+`pycounts_vs` was created with [`cookiecutter`](https://cookiecutter.readthedocs.io/en/latest/) and the `py-pkgs-cookiecutter` [template](https://github.com/py-pkgs/py-pkgs-cookiecutter).

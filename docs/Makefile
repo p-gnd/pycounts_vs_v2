@@ -3,7 +3,7 @@
 # You can set these variables from the command line.
 SPHINXOPTS    =
 SPHINXBUILD   = python -msphinx
-SPHINXPROJ    = pypkgs_vs
+SPHINXPROJ    = pycounts_vs
 SOURCEDIR     = .
 BUILDDIR      = _build
 
