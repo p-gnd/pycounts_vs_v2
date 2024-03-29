@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "pycounts_vs"
-version = "0.5.0"
+version = "0.5.1"
 description = "Calculate word counts in a text file!"
 authors = ["Roberto Fioravanti"]
 license = "MIT"
